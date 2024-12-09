@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1729497767 source:d:\project150\main.cpp
+	"table.hpp"
+	"choice.hpp"
+	<iostream>
+
+1729496903 d:\project150\table.h
+
+1729496903 d:\project150\choice.h
+
+1729497672 source:d:\project150\table.cpp
+	<iostream>
+	"table.hpp"
+
+1729497572 d:\project150\table.hpp
+
+1729497683 source:d:\project150\quizeaboutele.cpp
+	<iostream>
+	"choice.hpp"
+
+1729497662 d:\project150\choice.hpp
+
+1729497693 source:d:\project150\info.cpp
+	<iostream>
+	"choice.hpp"
+

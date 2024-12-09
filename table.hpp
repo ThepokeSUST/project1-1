@@ -1,0 +1,3 @@
+
+void table();
+void printallEle();
